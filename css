@@ -1,1 +1,12 @@
+/* High section so page scrolls */
+.big-section {
+  background-color: #e0f2ff;
+  height: 1000px;
+  border: 1px solid #b0c4d8;
+}
 
+/* Mobile dropdown menu background */
+.navbar-nav.visible-xs li a {
+  background-color: #f2f2f2;
+  border-bottom: 1px solid #ccc;
+}
